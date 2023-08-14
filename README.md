@@ -1,2 +1,2 @@
 # kalkulatornodejs
-hehe
+Kalkulator Node JS Sederhana
